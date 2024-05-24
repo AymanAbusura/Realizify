@@ -10,13 +10,3 @@ const Header = ({ title, subtitle }: { title: String, subtitle?: String }) => {
 }
 
 export default Header
-
-// import React from 'react'
-
-// const Header = () => {
-//   return (
-//     <div>Header</div>
-//   )
-// }
-
-// export default Header
